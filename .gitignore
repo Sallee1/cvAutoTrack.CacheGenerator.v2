@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# compile files
+.vs
+.vscode
+x64
+bin
+build
+tokens.json
+resources
+output
